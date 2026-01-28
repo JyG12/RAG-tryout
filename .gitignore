@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Chroma / local DB (usually don't commit)
+db/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+
